@@ -12,7 +12,7 @@
     <allow-access-from domain="*" to-ports="*" secure="false"/>
     <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
     -->
-<<<<<<< HEAD
-	<!--local update--->
->>>>>>> d94987966e0c587c113995a27d792f23b1f05eb6
 </cross-domain-policy>
+
+
+<!--updated by Github account -->
